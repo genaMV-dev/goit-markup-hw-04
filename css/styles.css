@@ -391,9 +391,10 @@ li {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #ffffff;
+  margin-bottom: 16px;
 }
 
-.social-list {
+.social-list-footer {
   display: flex;
   gap: 16px;
 }
@@ -414,9 +415,7 @@ li {
   background-color: #31d0aa;
 }
 
-.social-text{
-    margin-bottom: 16px;
-}
+
 
 
  /* #endregion footer */
